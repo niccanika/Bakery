@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EmployAble
+comment0.text=\r\n\ interface\ for\ Employee\ class\r\n\r\n\ @author\ Nikola\ Janickova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=int\ getSalary()
+comment1.text=\r\n\ returns\ salary\r\n
+comment2.params=salary
+comment2.target=void\ setSalary(int)
+comment2.text=\r\n\ changes\ the\ salary\r\n
+numComments=3

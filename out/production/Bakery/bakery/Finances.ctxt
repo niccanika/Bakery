@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Finances
+comment0.text=\r\n\ Bank\ account\ of\ bakery\r\n\r\n\ @author\ Nikola\ Janickova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Finances()
+comment1.text=\r\n\ constructor\ that\ sets\ the\ balance\ to\ 1000\r\n
+comment2.params=balance
+comment2.target=Finances(int)
+comment2.text=\r\n\ constructor\ that\ sets\ the\ balance\ to\ whatever\ int\ we\ choose\r\n
+comment3.params=
+comment3.target=int\ getBalance()
+comment3.text=\r\n\ returns\ the\ accounts\ balance\r\n
+comment4.params=amount
+comment4.target=void\ income(int)
+comment4.text=\r\n\ increases\ the\ balance\ by\ amount\r\n
+comment5.params=amount
+comment5.target=void\ expense(int)
+comment5.text=\r\n\ decreases\ the\ balance\ by\ amount\r\n
+numComments=6

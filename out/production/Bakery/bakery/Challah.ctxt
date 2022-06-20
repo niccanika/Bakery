@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Challah
+comment0.text=\r\n\ Product\ of\ the\ bakery\ -\ Challah\r\n\r\n\ @author\ Nikola\ Janickova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Challah()
+comment1.text=\r\n\ constructor\ that\ adds\ the\ ingredients\ to\ a\ hashmap,\ calculates\ weight\ of\ the\ product,\ sets\ time\ to\ bake\ to\ 3,\ \r\n\ price\ of\ product\ to\ 30\ and\ amount\ of\ product\ to\ 0\ (because\ none\ has\ been\ baked\ yet)\r\n
+comment2.params=
+comment2.target=int\ getAmount()
+comment2.text=\r\n\ returns\ the\ amount\ of\ a\ product\ that\ was\ baked\r\n
+comment3.params=
+comment3.target=void\ soldProduct()
+comment3.text=\r\n\ decreases\ the\ amount\ after\ being\ sold\r\n
+numComments=4

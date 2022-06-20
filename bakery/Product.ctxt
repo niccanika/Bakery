@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\r\n\ Abstract\ class\ Product\ -\ products\ of\ the\ bakery\ in\ general\r\n\r\n\ @author\ Nikola\ Janickova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=int\ getAmount()
+comment1.text=\r\n\ returns\ the\ amount\ available\ of\ a\ product\r\n
+comment2.params=
+comment2.target=void\ soldProduct()
+comment2.text=\r\n\ decreases\ the\ amount\ of\ a\ product\ by\ one\ when\ sold\r\n
+comment3.params=s\ baker\ bank
+comment3.target=void\ bake(Storage,\ Employee,\ Finances)
+comment3.text=\r\n\ increases\ the\ amount\ of\ a\ product\ by\ one,\ uses\ ingredients\ from\ Storage\ and\ lowers\ the\ balance\ in\ Finances\r\n
+comment4.params=price
+comment4.target=void\ setPrice(int)
+comment4.text=\r\n\ sets\ the\ price\ of\ a\ product\r\n
+comment5.params=
+comment5.target=int\ getPrice()
+comment5.text=\r\n\ returns\ the\ price\ of\ a\ product\r\n
+comment6.params=
+comment6.target=int\ getWeight()
+comment6.text=\r\n\ calculates\ the\ weight\ of\ a\ product\ based\ on\ the\ amount\ of\ ingredients\ used\r\n
+numComments=7

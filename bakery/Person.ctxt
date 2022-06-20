@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Abstract\ class\ Person\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ Nikola\ Janickova\r\n\ @version\ 1\r\n
+comment1.params=name\ gender\ age
+comment1.target=Person(java.lang.String,\ Gender,\ int)
+comment1.text=\r\n\ constructor\ that\ sets\ the\ name,\ gender\ and\ age\ of\ a\ person\r\n
+comment2.params=
+comment2.target=java.lang.String\ getInfo()
+comment2.text=\r\n\ returns\ a\ string\ with\ info\ of\ a\ person\r\n
+numComments=3

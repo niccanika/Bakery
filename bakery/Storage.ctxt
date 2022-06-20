@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Storage
+comment0.text=\r\n\ Storage\ of\ bakery\r\n\r\n\ @author\ Nikola\ Janickova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Storage()
+comment1.text=\r\n\ constructor\ that\ adds\ 10kg\ of\ each\ ingredients\ to\ ingredients\ hashmap\r\n
+comment2.params=
+comment2.target=java.lang.StringBuffer\ checkStorage()
+comment2.text=\r\n\ returns\ a\ StringBuffer\ with\ information\ about\ the\ storage\ -\ the\ total\ amount\ of\ ingredients\ and\ amount\ of\ every\ single\ ingredient\ (in\ kg\ and\ g)\r\n
+comment3.params=a\ amount\ fin
+comment3.target=void\ buyIngredient(Ingredients,\ int,\ Finances)
+comment3.text=\r\n\ increases\ the\ amount\ of\ a\ specific\ ingredient\ as\ well\ as\ the\ total\ and\ decreases\ the\ balance\ of\ bakery's\ bank\ account\r\n
+comment4.params=a\ amount
+comment4.target=boolean\ useIngredient(Ingredients,\ int)
+comment4.text=\r\n\ uses\ a\ specific\ amount\ of\ an\ ingredient\r\n
+comment5.params=a\ amount
+comment5.target=boolean\ checkIngredient(Ingredients,\ int)
+comment5.text=\r\n\ returns\ true\ if\ there\ is\ a\ specific\ amount\ or\ more\ of\ an\ ingredient\ available,\ false\ otherwise\r\n
+comment6.params=
+comment6.target=int\ getTotal()
+comment6.text=\r\n\ returns\ total\ amount\ of\ ingredients\ in\ storage\r\n
+numComments=7

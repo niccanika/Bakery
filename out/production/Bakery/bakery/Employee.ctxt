@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\r\n\ Employee\ of\ the\ bakery\r\n\r\n\ @author\ Nikola\ Janickova\r\n\ @version\ 1\r\n
+comment1.params=id\ name\ gender\ age\ type
+comment1.target=Employee(int,\ java.lang.String,\ Gender,\ int,\ EmployeeType)
+comment1.text=\r\n\ constructor\ that\ sets\ the\ id,\ name,\ gender,\ age\ and\ job\ position\ of\ an\ employee\r\n
+comment2.params=id\ name\ gender\ age\ type\ salary
+comment2.target=Employee(int,\ java.lang.String,\ Gender,\ int,\ EmployeeType,\ int)
+comment2.text=\r\n\ constructor\ that\ sets\ the\ id,\ name,\ gender,\ age,\ job\ position\ and\ also\ the\ salary\ of\ an\ employee\r\n
+comment3.params=newPos
+comment3.target=void\ changePosition(int)
+comment3.text=\r\n\ changes\ the\ job\ position\ of\ an\ employee\r\n
+comment4.params=
+comment4.target=int\ getSalary()
+comment4.text=\r\n\ returns\ the\ salary\r\n
+comment5.params=
+comment5.target=int\ getID()
+comment5.text=\r\n\ returns\ employee's\ id\r\n
+comment6.params=salary
+comment6.target=void\ setSalary(int)
+comment6.text=\r\n\ changes\ employee's\ salary\ if\ it's\ the\ same\ as\ minumum\ salary\ or\ bigger\r\n
+comment7.params=
+comment7.target=java.lang.String\ getInfo()
+comment7.text=\r\n\ returns\ a\ string\ with\ info\ about\ employee\r\n
+numComments=8

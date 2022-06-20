@@ -1,0 +1,7 @@
+1,Pedro,MALE,30
+2,Carlos,MALE,53
+3,Rosamaria,FEMALE,34
+4,Delfina,FEMALE,23
+5,Miranda,FEMALE,15
+6,Alonso,MALE,20
+7,Facundo,MALE,37

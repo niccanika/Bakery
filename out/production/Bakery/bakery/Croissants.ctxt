@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Croissants
+comment0.text=\r\n\ Product\ of\ the\ bakery\ -\ Croissants\r\n\r\n\ @author\ Nikola\ Janickova\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Croissants()
+comment1.text=\r\n\ constructor\ that\ adds\ the\ ingredients\ to\ a\ hashmap,\ calculates\ weight\ of\ the\ product,\ sets\ time\ to\ bake\ to\ 5,\ \r\n\ price\ of\ product\ to\ 20\ and\ amount\ of\ product\ to\ 0\ (because\ none\ has\ been\ baked\ yet)\r\n
+comment2.params=
+comment2.target=int\ getAmount()
+comment2.text=\r\n\ returns\ the\ amount\ of\ a\ product\ that\ was\ baked\r\n
+comment3.params=
+comment3.target=void\ soldProduct()
+comment3.text=\r\n\ decreases\ the\ amount\ after\ being\ sold\r\n
+comment4.params=s\ baker\ bank
+comment4.target=void\ bake(Storage,\ Employee,\ Finances)
+comment4.text=\r\n\ increases\ the\ amount\ of\ a\ product\ by\ 6,\ uses\ ingredients\ from\ Storage\ and\ lowers\ the\ balance\ in\ Finances\r\n
+numComments=5
